@@ -1,0 +1,1 @@
+Primeiro template responsivo que fiz inspirado no exemplo que o prof. Bonieky deu no curso dele, ainda não esta do jeito que eu quero mas já consigo sentir uma grande diferença para os que eu estava treinando antes
